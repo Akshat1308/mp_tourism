@@ -1,0 +1,23 @@
+body{
+    position: relative;
+    margin: 0;
+}
+.left{
+    margin-top: 40px;
+    height: 500px;
+    width: 440px;
+    margin-left: 20px;
+    background-color: antiquewhite;
+    font-size: large;
+}
+.right{
+    position: absolute;
+    background-color: rgb(225, 225, 225);
+    height: 500px;
+    width: 1000px;
+    right: 20px;
+    top: 295px;
+}
+a:visited{
+    color: blue;
+}
